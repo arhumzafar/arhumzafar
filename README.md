@@ -14,9 +14,6 @@
 - I'm always learning -- below, you'll find repos that contain what I'm currently learning/working on.
 
 
-
-<br />
-
 #### Languages, Tools, and More:
 
 - Python
