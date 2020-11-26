@@ -17,7 +17,6 @@
 
 - Python
 - C/C++
-- Java
 - R
 - SQL
 - PyTorch
