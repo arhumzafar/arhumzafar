@@ -5,7 +5,7 @@
 
 
 
-### I'm a [UW-Madison](google.com) graduate working in the space of Machine Learning & Data Science.
+### I'm a [UW-Madison ECE](https://www.engr.wisc.edu/department/electrical-computer-engineering/) graduate working in the space of Machine Learning & Data Science.
 <br>
 
 - Currently working in the Greater Milwaukee Area. 
