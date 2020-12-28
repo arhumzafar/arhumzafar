@@ -5,7 +5,7 @@
 
 
 
-### I'm a [UW-Madison ECE](https://www.engr.wisc.edu/department/electrical-computer-engineering/) graduate working in the space of Machine Learning & Data Science.
+### I'm a [UW-Madison ECE](https://www.engr.wisc.edu/department/electrical-computer-engineering/) graduate currently working in Machine Learning.
 
 - Currently working in the Greater Milwaukee Area. 
 - My Interests revolve around Statistics, Machine Learning, and Data Science.
