@@ -5,25 +5,24 @@
 
 
 
-### I'm a [UW-Madison ECE](https://www.engr.wisc.edu/department/electrical-computer-engineering/) graduate currently working in Machine Learning.
-
+- M.S. Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/).
+- B.S. in [Electrical Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/) & [Computer Science](https://www.cs.wisc.edu/) from the University of Wisconsin-Madison.
 - Currently working in the Greater Milwaukee Area. 
-- My Interests revolve around Statistics, Machine Learning, and Data Science.
-- Open to graduate and professional opportunities in the Statistics & ML/DS realm. 
-- I'm always learning -- below, you'll find repos that contain what I'm currently learning/working on.
+- My Interests revolve around stats, machine learning, data science, and it's respective applications.
 
 
-#### Languages, Tools, and More:
+#### Languages, tools, interests and more:
 
 - Python
+- SQL
 - C/C++
 - R
-- SQL
-- PyTorch
-- VSCode
-- Project Jupyter
-- Bash
+- PyTorch & Tensorflow
+- constrained machine learning
+- causal inference
+- ethical machine learning
 
 <br>
-thanks.
+<br>
+*last updated 2021*
 
