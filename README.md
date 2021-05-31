@@ -8,7 +8,7 @@
 - M.S. Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/).
 - B.S. in [Electrical Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/) & [Computer Science](https://www.cs.wisc.edu/) from the University of Wisconsin-Madison.
 - Currently working in the Greater Milwaukee Area. 
-- My Interests revolve around stats, machine learning, data science, and it's respective applications.
+- My Interests revolve around stats, machine learning, data science, and their respective applications.
 
 
 #### Languages, tools, interests and more:
