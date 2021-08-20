@@ -17,6 +17,7 @@
 - SQL
 - C/C++
 - R
+- Spark, pySpark, Airflow
 - PyTorch & Tensorflow
 - constrained machine learning
 - causal inference
