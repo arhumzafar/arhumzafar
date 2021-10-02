@@ -15,12 +15,13 @@
 
 - Python
 - SQL
-- C/C++
 - R
 - Spark, pySpark, Airflow
+- MLFlow, Kubeflow
+- Docker, K8s
 - PyTorch & Tensorflow
-- constrained machine learning
-- causal inference
+- data infrastructure
+- distributed ML
 - ethical machine learning
 
 <br>
