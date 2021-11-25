@@ -15,7 +15,7 @@
 - Python
 - SQL
 - R
-- Spark, Airflow
+- pySpark, Airflow
 - MLFlow, Kubeflow
 - Docker, K8s
 - PyTorch & Tensorflow
