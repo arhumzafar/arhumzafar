@@ -5,8 +5,8 @@
 
 
 
-- M.S. Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/).
-- B.S. in [Electrical Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/) & [Computer Science](https://www.cs.wisc.edu/) from the University of Wisconsin-Madison. 
+- M.S. Computer Science
+- B.S. in Electrical Engineering & Computer Science
 - My Interests revolve around data, machine learning, and their respective applications.
 
 
