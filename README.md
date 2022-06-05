@@ -15,9 +15,8 @@
 - Python
 - SQL
 - R
-- pySpark, Airflow
-- MLFlow, Kubeflow
-- Docker, K8s
+- Airflow
+- Docker, K8s, Kubeflow
 - PyTorch & Tensorflow
 - data infrastructure
 - distributed ML
@@ -27,5 +26,5 @@
 <br>
 
 
-*last updated 2021*
+*last updated 2022*
 
