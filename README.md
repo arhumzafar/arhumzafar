@@ -5,7 +5,7 @@
 
 
 
-- M.S. ML/DS
+- M.S. CS
 - B.S. in Electrical Engineering/Computer Science
 - My Interests revolve around data, machine learning, and their respective applications.
 
